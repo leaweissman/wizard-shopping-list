@@ -1,12 +1,12 @@
 
 import { useEffect, useState } from 'react'
 import { v4 as uuid4 } from 'uuid'
-import Form from './Form'
-import Headline from './Headline'
+import Form from './components/Form'
+import Headline from './components/Headline'
 import loadFromLocal from './lib/loadFromLocal'
-import ShowAllButton from './ShowAllButton'
-import OpenItemsButton from './OpenItemsButton'
-import ShoppingItem from './ShoppingItem'
+import ShowAllButton from './components/ShowAllButton'
+import OpenItemsButton from './components/OpenItemsButton'
+import ShoppingItem from './components/ShoppingItem'
 
 
 import styled from 'styled-components'
