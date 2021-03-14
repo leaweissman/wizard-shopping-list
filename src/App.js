@@ -11,7 +11,7 @@ import ShoppingItem from './components/ShoppingItem'
 
 import styled from 'styled-components'
 
-import './Headline.css'
+
 
 
 function App() {

@@ -1,4 +1,3 @@
-import './Headline.css';
 import PropTypes from 'prop-types';
 
 export default function Headline({ name }) {
